@@ -32,8 +32,6 @@ Kişisel bilgiler aşağıdaki durumlarda paylaşılabilir:
 ## Veri Güvenliği
 Kullanıcı bilgilerini korumak için çeşitli önlemler alınmıştır. Ancak, internet üzerinden veri iletiminde tamamen garanti verilemez.
 
-## Kullanıcı Hakları
-Kullanıcılar, kişisel bilgilerine erişim, düzeltme ve silme hakkına sahiptir. Bu haklar için uygulama içinden veya `destek@rotagold.com` adresine e-posta göndererek talepte bulunabilirsiniz.
 
 ## Çocukların Gizliliği
 Uygulamamız 13 yaş altındaki bireylerden bilerek bilgi toplamaz. 13 yaş altındaysanız ebeveyn izni olmadan uygulamayı kullanmayınız.
