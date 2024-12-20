@@ -1,1 +1,1 @@
-# ar-a-gold-privacy-policy
+# arsa-gold-privacy-policy
